@@ -1,0 +1,76 @@
+---
+title: "A door to the dharma"
+subtitle: "for my sister"
+description: "My sister asked me to help with starting a meditation practice. I wrote this very personal and opinionated approach to the dharma, specifically for her, taking the opportunity to reflect on my own practice of the past years, eeking out the things that I found most useful, helpful and insightful"
+author:
+  - name: Daniel Kapitan
+image: images/suzume-door.webp
+format:
+  typst:
+    cjk-font: "Noto Serif CJK SC"
+    page-numbering: ""
+    template-partials:
+      - typst-template.typ
+    include-before: |
+      #set page(number-align: left)
+      #set footnote.entry(separator: none)
+      #show heading.where(level: 1): set block(below: 1.5em)
+      #show heading.where(level: 2): set block(below: 1em)
+  epub: default
+format-links: false
+language:
+  other-links-title: "Download as"
+other-links:
+  - text: pdf
+    href: door-to-dharma.pdf
+    icon: file-pdf
+  - text: e-book
+    href: door-to-dharma.epub
+    icon: book
+---
+
+{{< pagebreak >}}
+
+> _"Can you teach me how to meditate," you ask._
+
+{{< pagebreak >}}
+
+```{=typst}
+#set page(numbering: "1", number-align: right)
+#outline(
+    title: [Return questions]
+)
+```
+
+{{< pagebreak >}}
+
+# Why meditate?
+
+You say you want to meditate. Why is that? To calm your mind? To become a better person? To become 'enlightened'? There is no single, right answer to this question. Yet, this question is always asked when starting with meditation. I have been taught that before you start to meditate, you need to have a clear intention.
+
+In the Chan tradition, we say this at the beginning:^[Master Sheng-Yen, _Illuminating Silence_.]
+
+>| I vow to deliver innumerable sentient beings.
+>| I vow to cut off endless vexations.
+>| I vow to master limitless approaches to Dharma.
+>| I vow to attain supreme buddhahood.
+
+I start with that, followed by the following aspiration of Gampopa which a learned in the Kagyu tradition:^[Gampopa, _Ornament of Precious Liberation_.]
+
+>| Grant your blessing^[_jin gyi lab_ in Tibetan is usually translated as 'blessing', which may be misleading some. The Tibetan term literally means to transform, to uplift, to brighten. 'Grant your inspiration' may have better a better connotation to Western ears. See [common misunderstandings about tantra](https://studybuddhism.com/en/tibetan-buddhism/tantra/buddhist-tantra/common-misunderstandings-about-tantra).] so that the mind of myself and all beings may be one with the dharma.
+>| Grant your blessing so that the dharma may progress along the path.
+>| Grant your blessing so that the path may clarify confusion.
+>| Grant your blessing so that confusion may dawn as wisdom.
+
+But be aware, while having aspirations and inspirations is useful in sustaining a practice, don't strive or hope for anything.
+
+> You came to this retreat in hopes of improving your practice and clearing your minds through meditation. If you had greater expectations, perhaps I discouraged you when I said that meditating has nothing to do with becoming enlightened. One of you wondered what the point of meditating is, if it does not lead to enlightenment. The answer is that while meditation does not lead to enlightenment, if you do not meditate you will never be enlightened.^[Master Shen-Yen, [commentary on Nitou's _Song of Mind_](https://www.lionsroar.com/sought-for-it-is-not-seen/).]
+
+{{< pagebreak >}}
+
+# How to meditate?
+
+
+{{< pagebreak >}}
+
+# What makes you not a Buddhist?
