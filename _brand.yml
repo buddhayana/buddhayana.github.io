@@ -20,11 +20,11 @@ typography:
       source: google
   base:
     family: Cormorant Garamond
-    weight: 400
+    weight: 500
     size: 18px
   headings:
     family: Cormorant Garamond
-    weight: 600
+    weight: 700
   monospace-inline:
     family: PT Mono
     color: "#800000"
