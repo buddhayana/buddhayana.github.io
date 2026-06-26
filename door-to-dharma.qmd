@@ -12,7 +12,6 @@ format:
     template-partials:
       - typst-template.typ
     include-before: |
-      #set page(number-align: left)
       #set footnote.entry(separator: none)
       #show heading.where(level: 1): set block(below: 1.5em)
       #show heading.where(level: 2): set block(below: 1em)
@@ -31,18 +30,26 @@ other-links:
 
 {{< pagebreak >}}
 
-> _"Can you teach me how to meditate," you ask._
+```{=typst}
+#align(center)[_"Can you teach me how to meditate," you ask._]
+```
+---
+
+<br><br><br><br><br>
+
+```{=typst}
+#outline(
+    title: []
+)
+```
+
+---
 
 {{< pagebreak >}}
 
 ```{=typst}
-#set page(numbering: "1", number-align: right)
-#outline(
-    title: [Return questions]
-)
+#set page(numbering: "1", number-align: left)
 ```
-
-{{< pagebreak >}}
 
 # Why meditate?
 
@@ -74,3 +81,20 @@ But be aware, while having aspirations and inspirations is useful in sustaining 
 {{< pagebreak >}}
 
 # What makes you not a Buddhist?
+
+> When the Buddha taught the Four Noble Truths he repeated them three
+times, expanding them successively. First he said, “There is suffering in this
+world. There are causes of this suffering. There is cessation of suffering, and
+there are ways to reach the cessation of suffering.” Then he said, “There is suf-
+fering in this world, one has to understand it. There are causes of this suffer-
+ing, and one has to eliminate them. There is cessation of suffering, and one
+has to attain it. There are ways to reach the cessation of suffering, and one
+has to work upon them.” The third time he said, “There is suffering in this
+world, one has to understand it, but actually there is nothing to understand.
+There are causes of this suffering, and one has to eliminate them, but actu-
+ally there is nothing to eliminate. There is cessation of suffering, and one has
+to attain it, but actually there is nothing to attain. There are ways to reach the
+cessation of suffering, and one has to work upon them, but actually there is
+nothing to work upon.” This was the first teaching of the Buddha, which he
+gave at Sarnath to his first five disciples: Kaundinya, Bhaddiya, Vappa,
+Mahanama, and Asvajit.^[Ringu Tulku, _Daring Steps Toward Fearlessness: the Three Vehicles of Buddhism_ (p. 22).]
