@@ -1,67 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://buddhayana.org/index.html</loc>
-    <lastmod>2026-07-01T08:16:40.138Z</lastmod>
-  </url>
-  <url>
-    <loc>https://buddhayana.org/gampopa/index.html</loc>
-    <lastmod>2026-07-01T08:16:40.090Z</lastmod>
-  </url>
-  <url>
-    <loc>https://buddhayana.org/gampopa/confusion-dawn-as-wisdom.html</loc>
-    <lastmod>2026-07-01T08:16:40.089Z</lastmod>
-  </url>
-  <url>
-    <loc>https://buddhayana.org/gampopa/mind-one-with-dharma.html</loc>
-    <lastmod>2026-07-01T08:16:40.090Z</lastmod>
-  </url>
-  <url>
-    <loc>https://buddhayana.org/indonesia.html</loc>
-    <lastmod>2026-07-01T08:16:40.138Z</lastmod>
-  </url>
-  <url>
-    <loc>https://buddhayana.org/tai-chi/tai-chi-mindfulness-body.html</loc>
-    <lastmod>2026-07-01T08:16:40.140Z</lastmod>
-  </url>
-  <url>
-    <loc>https://buddhayana.org/early-buddhism/index.html</loc>
-    <lastmod>2026-07-01T08:16:39.446Z</lastmod>
-  </url>
-  <url>
-    <loc>https://buddhayana.org/early-buddhism/meditation-analayo.html</loc>
-    <lastmod>2026-07-01T08:16:40.088Z</lastmod>
-  </url>
-  <url>
-    <loc>https://buddhayana.org/early-buddhism/early-buddhist-meditation.html</loc>
-    <lastmod>2026-07-01T08:16:39.446Z</lastmod>
-  </url>
-  <url>
-    <loc>https://buddhayana.org/tai-chi/daoist-exercises.html</loc>
-    <lastmod>2026-07-01T08:16:40.139Z</lastmod>
-  </url>
-  <url>
-    <loc>https://buddhayana.org/tai-chi/index.html</loc>
-    <lastmod>2026-07-01T08:16:40.140Z</lastmod>
-  </url>
-  <url>
-    <loc>https://buddhayana.org/xinxinming.html</loc>
-    <lastmod>2026-07-01T08:16:40.140Z</lastmod>
-  </url>
-  <url>
-    <loc>https://buddhayana.org/sutras.html</loc>
-    <lastmod>2026-07-01T08:16:40.139Z</lastmod>
+    <loc>https://buddhayana.org/gampopa/path-clarify-confusion.html</loc>
+    <lastmod>2026-07-17T07:26:02.359Z</lastmod>
   </url>
   <url>
     <loc>https://buddhayana.org/gampopa/dharma-progress-along-path.html</loc>
-    <lastmod>2026-07-01T08:16:40.090Z</lastmod>
+    <lastmod>2026-07-17T07:26:02.359Z</lastmod>
   </url>
   <url>
-    <loc>https://buddhayana.org/gampopa/path-clarify-confusion.html</loc>
-    <lastmod>2026-07-01T08:16:40.090Z</lastmod>
+    <loc>https://buddhayana.org/gampopa/confusion-dawn-as-wisdom.html</loc>
+    <lastmod>2026-07-17T07:26:02.358Z</lastmod>
+  </url>
+  <url>
+    <loc>https://buddhayana.org/sutras.html</loc>
+    <lastmod>2026-07-17T07:26:02.409Z</lastmod>
   </url>
   <url>
     <loc>https://buddhayana.org/earth-touching.html</loc>
-    <lastmod>2026-07-01T08:16:40.088Z</lastmod>
+    <lastmod>2026-07-17T07:26:02.357Z</lastmod>
+  </url>
+  <url>
+    <loc>https://buddhayana.org/tai-chi/daoist-exercises.html</loc>
+    <lastmod>2026-07-17T07:26:02.409Z</lastmod>
+  </url>
+  <url>
+    <loc>https://buddhayana.org/xinxinming.html</loc>
+    <lastmod>2026-07-17T07:26:02.411Z</lastmod>
+  </url>
+  <url>
+    <loc>https://buddhayana.org/early-buddhism/early-buddhist-meditation.html</loc>
+    <lastmod>2026-07-17T07:26:01.707Z</lastmod>
+  </url>
+  <url>
+    <loc>https://buddhayana.org/early-buddhism/meditation-analayo.html</loc>
+    <lastmod>2026-07-17T07:26:02.357Z</lastmod>
+  </url>
+  <url>
+    <loc>https://buddhayana.org/early-buddhism/index.html</loc>
+    <lastmod>2026-07-17T07:26:01.707Z</lastmod>
+  </url>
+  <url>
+    <loc>https://buddhayana.org/indonesia.html</loc>
+    <lastmod>2026-07-17T07:26:02.407Z</lastmod>
+  </url>
+  <url>
+    <loc>https://buddhayana.org/tai-chi/tai-chi-mindfulness-body.html</loc>
+    <lastmod>2026-07-17T07:26:02.410Z</lastmod>
+  </url>
+  <url>
+    <loc>https://buddhayana.org/tai-chi/index.html</loc>
+    <lastmod>2026-07-17T07:26:02.410Z</lastmod>
+  </url>
+  <url>
+    <loc>https://buddhayana.org/samadhi-as-unification/index.html</loc>
+    <lastmod>2026-07-17T07:26:02.409Z</lastmod>
+  </url>
+  <url>
+    <loc>https://buddhayana.org/index.html</loc>
+    <lastmod>2026-07-17T07:26:02.407Z</lastmod>
+  </url>
+  <url>
+    <loc>https://buddhayana.org/gampopa/mind-one-with-dharma.html</loc>
+    <lastmod>2026-07-17T07:26:02.359Z</lastmod>
+  </url>
+  <url>
+    <loc>https://buddhayana.org/gampopa/index.html</loc>
+    <lastmod>2026-07-17T07:26:02.359Z</lastmod>
   </url>
 </urlset>
