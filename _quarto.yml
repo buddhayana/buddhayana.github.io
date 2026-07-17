@@ -5,7 +5,7 @@ website:
   title: "Buddhayana"
   site-url: https://buddhayana.org
   repo-url: https://github.com/buddhayana/buddhayana.github.io
-  llm-txt: true
+  llms-txt: true
   reader-mode: true
   sidebar:
     logo: logo.png
