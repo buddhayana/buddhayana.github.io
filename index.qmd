@@ -1,6 +1,6 @@
 ---
 title: Buddhayana
-subtitle: musings of a modern household practitioner 
+subtitle: musings of a modern household practitioner
 sidebar: false
 image: images/dk-and-cnr.jpg
 about:
@@ -27,13 +27,14 @@ listing:
         - earth-touching.qmd
         - early-buddhism/meditation-analayo.qmd
         - early-buddhism/early-buddhist-meditation.qmd
+        - samadhi-as-unification/index.qmd
         - tai-chi/index.qmd
         - gampopa/index.qmd
         - sutras.qmd
         - indonesia.qmd
-        
-        
-        
+
+
+
 
 ---
 

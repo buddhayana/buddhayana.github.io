@@ -5,6 +5,7 @@ website:
   title: "Buddhayana"
   site-url: https://buddhayana.org
   repo-url: https://github.com/buddhayana/buddhayana.github.io
+  llm-txt: true
   reader-mode: true
   sidebar:
     logo: logo.png
@@ -16,6 +17,7 @@ website:
     contents:
       - xinxinming.qmd
       - earth-touching.qmd
+      - samadhi-as-unification/index.qmd
       - sutras.qmd
       - indonesia.qmd
       - section: Early Buddhism
@@ -35,9 +37,10 @@ website:
         contents:
           - tai-chi/daoist-exercises.qmd
           - tai-chi/tai-chi-mindfulness-body.qmd
+      - samadhi-as-unification/index.qmd
 
 format:
-  html:  
+  html:
     toc: true
     toc-location: right
     grid:
@@ -48,7 +51,3 @@ reference-location: margin
 citation-location: margin
 filters:
   - nutshell
-
-
-
-

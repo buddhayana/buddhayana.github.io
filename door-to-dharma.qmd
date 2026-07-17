@@ -2,6 +2,7 @@
 title: "A door to the dharma"
 subtitle: "for my sister"
 description: "My sister asked me to help with starting a meditation practice. I wrote this very personal and opinionated approach to the dharma, specifically for her, taking the opportunity to reflect on my own practice of the past years, eeking out the things that I found most useful, helpful and insightful"
+draft: true
 author:
   - name: Daniel Kapitan
 image: images/suzume-door.webp
