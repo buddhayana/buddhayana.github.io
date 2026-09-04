@@ -27,6 +27,7 @@ listing:
         - earth-touching.qmd
         - early-buddhism/meditation-analayo.qmd
         - early-buddhism/early-buddhist-meditation.qmd
+        - huatou.qmd
         - samadhi-as-unification/index.qmd
         - tai-chi/index.qmd
         - gampopa/index.qmd
