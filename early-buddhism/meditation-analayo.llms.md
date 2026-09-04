@@ -22,7 +22,7 @@ If you find this resource helpful, please consider [donating](https://www.buddhi
 
 [Download audio file](../early-buddhism/meditation-1.mp3)
 
-  
+\
 
 Your browser does not support the audio tag.
 
@@ -30,7 +30,7 @@ Your browser does not support the audio tag.
 
 [Download audio file](../early-buddhism/meditation-2.mp3)
 
-  
+\
 
 Your browser does not support the audio tag.
 
@@ -38,7 +38,7 @@ Your browser does not support the audio tag.
 
 [Download audio file](../early-buddhism/meditation-3.mp3)
 
-  
+\
 
 Your browser does not support the audio tag.
 
@@ -46,7 +46,7 @@ Your browser does not support the audio tag.
 
 [Download audio file](../early-buddhism/meditation-4.mp3)
 
-  
+\
 
 Your browser does not support the audio tag.
 
@@ -54,7 +54,7 @@ Your browser does not support the audio tag.
 
 [Download audio file](../early-buddhism/meditation-5.mp3)
 
-  
+\
 
 Your browser does not support the audio tag.
 
@@ -62,7 +62,7 @@ Your browser does not support the audio tag.
 
 [Download audio file](../early-buddhism/meditation-6.mp3)
 
-  
+\
 
 Your browser does not support the audio tag.
 
@@ -70,6 +70,6 @@ Your browser does not support the audio tag.
 
 [Download audio file](../early-buddhism/meditation-7.mp3)
 
-  
+\
 
 Your browser does not support the audio tag.

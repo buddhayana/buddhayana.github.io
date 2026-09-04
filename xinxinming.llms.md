@@ -2,8 +2,8 @@
 
 信心銘 Xinxinming with a guide to Ch’an practice by Master Sheng-Yen
 
-One of may favourite dharma poems. The phrase ‘faith in mind’ contains the two meanings of ‘believing in’ and ‘realizing’ the mind. Faith in mind is the belief that we have a fundamental unmoving, unchanging mind. This mind is precisely Buddha mind.  
-  
+One of may favourite dharma poems. The phrase ‘faith in mind’ contains the two meanings of ‘believing in’ and ‘realizing’ the mind. Faith in mind is the belief that we have a fundamental unmoving, unchanging mind. This mind is precisely Buddha mind.\
+\
 The original document was obtained from the [Western Chan Fellowship](https://westernchanfellowship.org/fileadmin/user_upload/publications/booklets/Faith_in_Mind.pdf).
 
 Authors
@@ -40,196 +40,196 @@ The poem contains phrases that will later on assume importance in the Ts’ao Tu
 
 # Faith in Mind
 
-The Supreme Way is not difficult  
-If only you do not pick and choose.  
-Neither love nor hate,  
-And you will clearly understand.  
-Be off by a hair,  
-And you are as far from it as heaven from earth.  
-If you want the Way to appear,  
-Be neither for nor against.  
-For and against opposing each other  
-This is the mind’s disease.  
-Without recognizing the mysterious principle  
+The Supreme Way is not difficult\
+If only you do not pick and choose.\
+Neither love nor hate,\
+And you will clearly understand.\
+Be off by a hair,\
+And you are as far from it as heaven from earth.\
+If you want the Way to appear,\
+Be neither for nor against.\
+For and against opposing each other\
+This is the mind’s disease.\
+Without recognizing the mysterious principle\
 It is useless to practice quietude.
 
-  
+\
 
-The Way is perfect like great space,  
-Without lack, without excess.  
-Because of grasping and rejecting,  
-You cannot attain it.  
-Do not pursue conditioned existence;  
-Do not abide in acceptance of emptiness.  
-In oneness and equality,  
-Confusion vanishes of itself.  
-Stop activity and return to stillness,  
-And that stillness will be even more active.  
-Merely stagnating in duality,  
+The Way is perfect like great space,\
+Without lack, without excess.\
+Because of grasping and rejecting,\
+You cannot attain it.\
+Do not pursue conditioned existence;\
+Do not abide in acceptance of emptiness.\
+In oneness and equality,\
+Confusion vanishes of itself.\
+Stop activity and return to stillness,\
+And that stillness will be even more active.\
+Merely stagnating in duality,\
 How can you recognize oneness?
 
-  
+\
 
-If you fail to penetrate oneness,  
-Both places lose their function.  
-Banish existence and you fall into existence;  
-Follow emptiness and you turn your back on it.  
-Excessive talking and thinking  
-Turn you from harmony with the Way.  
-Cut off talking and thinking,  
-And there is nowhere you cannot penetrate.  
-Return to the root and attain the principle;  
-Pursue illumination and you lose it.  
-One moment of reversing the light  
-Is greater than the previous emptiness.  
-The previous emptiness is transformed;  
-It was all a product of deluded views.  
-No need to seek the real;  
+If you fail to penetrate oneness,\
+Both places lose their function.\
+Banish existence and you fall into existence;\
+Follow emptiness and you turn your back on it.\
+Excessive talking and thinking\
+Turn you from harmony with the Way.\
+Cut off talking and thinking,\
+And there is nowhere you cannot penetrate.\
+Return to the root and attain the principle;\
+Pursue illumination and you lose it.\
+One moment of reversing the light\
+Is greater than the previous emptiness.\
+The previous emptiness is transformed;\
+It was all a product of deluded views.\
+No need to seek the real;\
 Just extinguish your views.
 
-  
+\
 
-Do not abide in dualistic views;  
-Take care not to seek after them.  
-As soon as there is right and wrong  
-The mind is scattered and lost.  
-Two comes from one,  
-Yet do not even keep the one.  
-When one mind does not arise,  
-Myriad dharmas are without defect.  
-Without defect, without dharmas,  
-No arising, no mind.  
-The subject is extinguished with the object.  
-The object sinks away with the subject.  
-Object is object because of the subject;  
-Subject is subject because of the object.  
-Know that the two  
-Are originally one emptiness.  
-In one emptiness the two are the same,  
-Containing all phenomena.  
-Not seeing fine or coarse,  
+Do not abide in dualistic views;\
+Take care not to seek after them.\
+As soon as there is right and wrong\
+The mind is scattered and lost.\
+Two comes from one,\
+Yet do not even keep the one.\
+When one mind does not arise,\
+Myriad dharmas are without defect.\
+Without defect, without dharmas,\
+No arising, no mind.\
+The subject is extinguished with the object.\
+The object sinks away with the subject.\
+Object is object because of the subject;\
+Subject is subject because of the object.\
+Know that the two\
+Are originally one emptiness.\
+In one emptiness the two are the same,\
+Containing all phenomena.\
+Not seeing fine or coarse,\
 How can there be any bias?
 
-  
+\
 
-The Great Way is broad,  
-Neither easy nor difficult.  
-With narrow views and doubts,  
-Haste will slow you down.  
-Attach to it and you lose the measure;  
-The mind will enter a deviant path.  
-Let it go and be spontaneous,  
+The Great Way is broad,\
+Neither easy nor difficult.\
+With narrow views and doubts,\
+Haste will slow you down.\
+Attach to it and you lose the measure;\
+The mind will enter a deviant path.\
+Let it go and be spontaneous,\
 Experience no going or staying.
 
-  
+\
 
-Accord with your nature, unite with the Way,  
-Wander at ease, without vexation.  
-Bound by thoughts, you depart from the real;  
-And sinking into a stupor is as bad.  
-It is not good to weary the spirit.  
+Accord with your nature, unite with the Way,\
+Wander at ease, without vexation.\
+Bound by thoughts, you depart from the real;\
+And sinking into a stupor is as bad.\
+It is not good to weary the spirit.\
 Why alternate between aversion and affection?
 
-  
+\
 
-If you wish to enter the one vehicle,  
-Do not be repelled by the sense realm.  
-With no aversion to the sense realm,  
-You become one with true enlightenment.  
-The wise have no motives;  
-Fools put themselves in bondage.  
-One dharma is not different from another.  
-The deluded mind clings to whatever it desires.  
-Using mind to cultivate mind  
+If you wish to enter the one vehicle,\
+Do not be repelled by the sense realm.\
+With no aversion to the sense realm,\
+You become one with true enlightenment.\
+The wise have no motives;\
+Fools put themselves in bondage.\
+One dharma is not different from another.\
+The deluded mind clings to whatever it desires.\
+Using mind to cultivate mind\
 Is this not a great mistake?
 
-  
+\
 
-The erring mind begets tranquillity and confusion;  
-In enlightenment there are no likes or dislikes.  
-The duality of all things  
-Issues from false discriminations.  
-A dream, an illusion, a flower in the sky  
-How could they be worth grasping?  
-Gain and loss, right and wrong  
+The erring mind begets tranquillity and confusion;\
+In enlightenment there are no likes or dislikes.\
+The duality of all things\
+Issues from false discriminations.\
+A dream, an illusion, a flower in the sky\
+How could they be worth grasping?\
+Gain and loss, right and wrong\
 Discard them all at once.
 
-  
+\
 
-If the eyes do not close in sleep,  
-All dreams will cease of themselves.  
-If the mind does not discriminate,  
-All dharmas are of one suchness.  
-The essence of one suchness is profound;  
-Unmoving, conditioned things are forgotten.  
-Contemplate all dharmas as equal,  
-And you return to things as they are.  
-When the subject disappears,  
+If the eyes do not close in sleep,\
+All dreams will cease of themselves.\
+If the mind does not discriminate,\
+All dharmas are of one suchness.\
+The essence of one suchness is profound;\
+Unmoving, conditioned things are forgotten.\
+Contemplate all dharmas as equal,\
+And you return to things as they are.\
+When the subject disappears,\
 There can be no measuring or comparing.
 
-  
+\
 
-Stop activity and there is no activity;  
-When activity stops, there is no rest.  
-Since two cannot be established,  
-How can there be one?  
-In the very ultimate,  
+Stop activity and there is no activity;\
+When activity stops, there is no rest.\
+Since two cannot be established,\
+How can there be one?\
+In the very ultimate,\
 Rules and standards do not exist.
 
-  
+\
 
-Develop a mind of equanimity,  
-And all deeds are put to rest.  
-Anxious doubts are completely cleared.  
-Right faith is made upright.  
-Nothing lingers behind,  
-Nothing can be remembered.  
-Bright and empty, functioning naturally,  
-The mind does not exert itself.  
-It is not a place of thinking,  
-Difficult for reason and emotion to fathom.  
-In the Dharma Realm of true suchness,  
+Develop a mind of equanimity,\
+And all deeds are put to rest.\
+Anxious doubts are completely cleared.\
+Right faith is made upright.\
+Nothing lingers behind,\
+Nothing can be remembered.\
+Bright and empty, functioning naturally,\
+The mind does not exert itself.\
+It is not a place of thinking,\
+Difficult for reason and emotion to fathom.\
+In the Dharma Realm of true suchness,\
 There is no other, no self.
 
-  
+\
 
-To accord with it is vitally important;  
-Only refer to not-two.  
-In not-two all things are in unity;  
-Nothing is excluded.  
-The wise throughout the ten directions  
-All enter this principle.  
-This principle is neither hurried nor slow  
+To accord with it is vitally important;\
+Only refer to not-two.\
+In not-two all things are in unity;\
+Nothing is excluded.\
+The wise throughout the ten directions\
+All enter this principle.\
+This principle is neither hurried nor slow\
 One thought for ten thousand years.
 
-  
+\
 
-Abiding nowhere yet everywhere,  
-The ten directions are right before you.  
-The smallest is the same as the largest  
-In the realm where delusion is cut off.  
-The largest is the same as the smallest;  
-No boundaries are visible.  
-Existence is precisely emptiness;  
-Emptiness is precisely existence.  
-If it is not like this,  
+Abiding nowhere yet everywhere,\
+The ten directions are right before you.\
+The smallest is the same as the largest\
+In the realm where delusion is cut off.\
+The largest is the same as the smallest;\
+No boundaries are visible.\
+Existence is precisely emptiness;\
+Emptiness is precisely existence.\
+If it is not like this,\
 Then you must not preserve it.
 
-  
+\
 
-One is everything;  
-Everything is one.  
-If it is like this,  
-Why worry about not finishing?  
-Faith and mind are not two;  
+One is everything;\
+Everything is one.\
+If it is like this,\
+Why worry about not finishing?\
+Faith and mind are not two;\
 Non-duality is faith in mind.
 
-  
+\
 
-The path of words is cut off;  
+The path of words is cut off;\
 There is no past, no future, no present.
 
-  
+\
 
 ![](./images/thousand-buddhas.png)
 
@@ -237,11 +237,11 @@ There is no past, no future, no present.
 
 ## 1. Embarking on the Practice
 
-> *The Supreme Way is not difficult*  
-> *If only you do not pick and choose.*  
-> *Neither love nor hate,*  
-> *And you will clearly understand.*  
-> *Be off by a hair,*  
+> *The Supreme Way is not difficult*\
+> *If only you do not pick and choose.*\
+> *Neither love nor hate,*\
+> *And you will clearly understand.*\
+> *Be off by a hair,*\
 > *And you are as far from it as heaven from earth.*
 
 The sole purpose of a Ch’an retreat is to meditate. You should keep your attention entirely on practice, without trying to attain any results. Since many of you have traveled far, or have worked hard to set aside the time, you have a great deal invested in this retreat. It is natural that you want to gain something. But once you enter the retreat, you must put aside any specific hopes. Practicing with a goal in mind is like trying to catch a feather with a fan. The more you go after it, the more it eludes you. But if you sneak up on it slowly, you can grab it. The aim of practice is to develop patience and forbearance, to train your mind to become calm and stable. Any attachment or seeking will prevent your mind from settling down.
@@ -270,9 +270,9 @@ Perhaps you try to put down extraneous concerns but find that you just can’t. 
 
 ## 2. Overcoming Like and Dislike
 
-> *If you want the Way to appear,*  
-> *Be neither for nor against.*  
-> *For and against opposing each other*  
+> *If you want the Way to appear,*\
+> *Be neither for nor against.*\
+> *For and against opposing each other*\
 > *This is the mind’s disease.*
 
 If you want the Buddha Way to manifest before your eyes, it is a mistake to harbor any preferences or aversions. This includes anything you hope to acquire, keep, discard, or avoid. When sitting seems to be going particularly well, the idea may pop into your mind that you are about to be enlightened. You begin to wait for this enlightenment experience. With this expectation, the mind has already abandoned its single-mindedness and has become confused and scattered. You will not be able to maintain your previous state of concentration. On a prior retreat, one student was progressing so well that there were notable changes in his mental state. At that point he became frightened. He thought, “I’m happy with the way I am now. I don’t really want any drastic changes. What if my friends don’t recognize me?” He did not sit as well for the rest of the retreat.
@@ -283,7 +283,7 @@ Such a contradictory state of mind is common among ordinary people. When I left 
 
 Though “for” and “against” are opposites, they are also very much related. If there is something that you like, there must be something else that you dislike. And if you cannot get what you like, you will change your mind and dislike it. To be caught in this conflict between like and dislike is a serious disease of the mind. It is a barrier to practice. Practice is a process by which we recognize and treat the disease of our minds. When the disease completely disappears, the ultimate Way is revealed.
 
-> *Without recognizing the mysterious principle*  
+> *Without recognizing the mysterious principle*\
 > *It is useless to practice quietude.*
 
 If you do not grasp the deep truth in the previous lines, no matter how hard you practice, your efforts will be futile. This is because there is a struggle within your mind. The previous thought is continually at war with the following thought. Under these circumstances, it is almost impossible to attain a peaceful state of mind.
@@ -294,9 +294,9 @@ Someone here has a habit of sometimes falling backwards while sitting. Today I c
 
 You should not remain passively in peacefulness. Don’t be afraid of difficulties. If your mind cannot settle down you should not feel any resentment. Cultivate non-aversion to the unpleasant and non-attachment to the pleasant. Taking a pleasurable state for enlightenment will get you into trouble. Enlightenment is not something we have to guard fiercely, not letting it go. If a pleasant state arises, don’t get stuck on it, just continue to practice. On a past retreat one person sat through four thirty-minute periods without stirring. Seeing that his condition was “too good,” I struck him with the incense board.[^5] Thereupon he grabbed the board and hit me, saying, “I was in such a blissful state and now I have lost samadhi.”[^6] Aside from the fact that practitioners should not have any attachments, it is not the purpose of Ch’an to remain in samadhi. It is not necessarily good for the mind to settle down too quickly. Ch’an is a lively practice. It is not difficult to maintain a calm mind in a stationary situation. But in Ch’an one should be able to retain mental calmness even in a mobile state.
 
-> *The Way is perfect like great space,*  
-> *Without lack, without excess.*  
-> *Because of grasping and rejecting,*  
+> *The Way is perfect like great space,*\
+> *Without lack, without excess.*\
+> *Because of grasping and rejecting,*\
 > *You cannot attain it.*
 
 Great space does not refer to a nothingness, but rather to a totality. Though it includes everything, there is no individual existence. There is only the total, universal existence. Even before attaining the Way, practitioners should train themselves in the proper attitudes of one who is already enlightened. That is, they should discard the mentality of liking and disliking. So long as you practice diligently, practice is the totality. After all, what you dislike and what you like are not separate from one another.
@@ -309,7 +309,7 @@ When we think we have gotten something, we have not really gotten it and when we
 
 ## 3. Letting Go of Attachments
 
-> *Do not pursue conditioned existence;*  
+> *Do not pursue conditioned existence;*\
 > *Do not abide in acceptance of emptiness.*
 
 People can be attached either to existence, the outer world, or emptiness, the inner void. Most of us are probably attached to existence, clinging to our thoughts, our body, the environment around us. On the other hand, someone attached to emptiness may think: “Since there is nothing after death, it is the simplest solution for everything. After I die, I won’t have to worry about anything anymore.” Another emptiness attitude may be: “Since the world is illusory, then nothing matters and I can stay detached from everything.” Those who are attached to emptiness may have a devil-may-care attitude. They may refuse to take anything in life seriously. Or they may even be susceptible to committing suicide.
@@ -318,7 +318,7 @@ Attachment to either existence or to emptiness are improper attitudes. I have sp
 
 If you practice to a point where you feel very tranquil, stable, and comfortable, that would be a peaceful state of mind. The best you can attain in this peaceful condition is a high samadhi state in the formless realm called the “emptiness samadhi.” But if you become attached to such a state you would never see your self- nature. This would be considered an “outer path” practice.
 
-> *In oneness and equality,*  
+> *In oneness and equality,*\
 > *Confusion vanishes of itself.*
 
 Perceiving that all is one means making no distinction between sage and sentient being, or between subject and object. This is another way of describing the totality of space. When you experience everything as equal, all distinctions will naturally disappear. While remembering not to abide either in existence or emptiness, you should also know that existence and emptiness are not separate.
@@ -339,7 +339,7 @@ When he said “an egg,” it was the correct answer. In fact, whatever he said 
 
 Perhaps in this retreat I will also stand in front of you and ask, “Who is standing in front of you?” Then, recalling the story I have just told, you may try to give a similar answer and call Shih-fu a horse. However, this would not be correct if you have the idea of giving a good answer. This is the mind of distinction. It is not the mind that treats everything as equal.
 
-> *Stop activity and return to stillness,*  
+> *Stop activity and return to stillness,*\
 > *And that stillness will be even more active.*
 
 Originally your mind may be in a relatively stable state. But when you realize that your mind is not completely unmoving, you may try to make it even calmer. However, the effort to still your mind will cause it to become more active. The mind that makes no distinctions is unmoving; there are no ups and downs. If you try to eliminate the ups and downs it would be like observing a pan of water. There are gentle ripples on its surface. But you want the surface to be completely still, so you blow on the water to flatten it out. This creates more ripples. Then you press the water with your hands to stop it from moving. The outcome is even more agitation. If you were to leave the water alone, the ripples would eventually subside and the surface would be still. Common sense tells us that we cannot force the water to become calm. When it comes to practice, however, it is difficult for us to apply the same principle.
@@ -354,9 +354,9 @@ This is like your love relationships. When you love someone, you should persist 
 
 ## 4. Unifying the Mind
 
-> *Merely stagnating in duality,*  
-> *How can you recognize oneness?*  
-> *If you fail to penetrate oneness,*  
+> *Merely stagnating in duality,*\
+> *How can you recognize oneness?*\
+> *If you fail to penetrate oneness,*\
 > *Both places lose their function.*
 
 Whenever you make distinctions, your mind is in opposition. Opposition implies duality. How is this relevant to practice? A practitioner usually wants to attain enlightenment or ultimately, Buddhahood. But this creates a duality of subject and object. The person who is seeking to attain is separate from the attainment, the object of his search. In seeking to become one with the Buddha, he separates himself from it. This is a state of opposition.
@@ -379,7 +379,7 @@ To go from one mind to no mind does not mean that anything is lost; rather, it m
 
 Once a meditator in his sixties said to me, “Shih-fu, I am very old. I may not have many years left. I really would like to get enlightened as soon as possible. If I don’t get enlightened before I die, I will have wasted my life.” I said, “Precisely because you are so old you shouldn’t have any hopes of getting enlightened. Just practice.” The man asked, “How can you tell me to practice and not show me how to get enlightened?” I replied, “If you have the idea of enlightenment, that is already your downfall; you cannot make much progress. If you do nothing but practice, at least you will approach the state of enlightenment. Even if you never get enlightened, the effort is never wasted.”
 
-> *Banish existence and you fall into existence;*  
+> *Banish existence and you fall into existence;*\
 > *Follow emptiness and you turn your back on it.*
 
 In the Sung dynasty there was a famous prime minister by the name of Chang Shang-Yin who was opposed to Buddhism. He wrote many essays purporting to refute Buddhism, and he would spend every evening pondering over how he could improve the essay he was then working on. His wife, observing his obsessive involvement and struggle with his writing, asked him, “What are you doing?” He said, “Buddhism is really hateful. I’m trying to prove there is no Buddha.” His wife remarked, “How strange! If you say there is no Buddha, why bother to refute the Buddha? It is as if you are throwing punches into empty space.” This comment turned his mind around. He reflected: There may be something to Buddhism after all. So he started studying Buddhism and became a well-known, accomplished lay practitioner of Ch’an. In fact, Chang Shang-Yin and Ch’an master Ta-Hui Tsung-Kao[^8] had the same master, Yuan-Wu K’o-Ch’in.
@@ -398,9 +398,9 @@ I have known many people who were extremely diligent and took their practice ver
 
 ## 5. Stilling Words and Thoughts
 
-> *Excessive talking and thinking*  
-> *Turn you from harmony with the Way.*  
-> *Cut off talking and thinking,*  
+> *Excessive talking and thinking*\
+> *Turn you from harmony with the Way.*\
+> *Cut off talking and thinking,*\
 > *And there is nowhere you cannot penetrate.*
 
 People like to talk, especially if they feel lonely. Those who tend to talk non-stop generally have difficulty with practice, and also make it difficult for others to practice. In our Ch’an retreat, talking is forbidden, but there are still some people who cannot resist covertly saying a few words. Others honor the rule and refrain from speaking, but that does not mean that they are not talking to themselves. All day long, while they are sitting, they come up with a theme, and then carry on a conversation with themselves. They ponder over all sorts of issues.
@@ -415,21 +415,21 @@ I once told a student, “You really have to practice very hard to overcome igno
 
 It is only when you no longer have any words or thoughts that the perfect Way will manifest before you, and “there is nowhere you cannot penetrate.” The meaning is not that you can go anywhere, but that there is no need to go anywhere, because in the state of no words and no thoughts you are in the midst of anywhere and every place. How do you get to the state of no words and no thoughts? By picking up the method and putting down your attachment to other things.
 
-> *Return to the root and attain the principle;*  
-> *Pursue illumination and you lose it.*  
-> *One moment of reversing the light*  
+> *Return to the root and attain the principle;*\
+> *Pursue illumination and you lose it.*\
+> *One moment of reversing the light*\
 > *Is greater than the previous emptiness.*
 
 In practice, you may try to penetrate to the emptiness of phenomena. But as long as illumination is directed towards outward appearances, you miss the primal source. It is only by turning the illumination inward that you return to the source, and get to the meaning of all things. If you can do this even for a split second, you will transcend the state of emptiness.
 
 The source, or root, is Buddha nature. How do you return to the root? By letting go of all words and thoughts and eliminating all grasping and rejection. You must begin with a method, but at some point you must let it go. Likewise, you should not hold on to any experiences that may come up. When the method and experiences are no longer necessary to you, you will have returned to the source. This source, or Buddha nature, is the lively manifestation of great liberation and great wisdom. In great liberation, there is nothing left. But this is not the same as “stubborn emptiness.” Liberation goes beyond both emptiness and form.
 
-> *The previous emptiness is transformed;*  
+> *The previous emptiness is transformed;*\
 > *It was all a product of deluded views.*
 
 Practitioners often go from attachment to existence, to attachment to emptiness. If one thinks that emptiness is true wisdom or liberation, under this delusion, one cannot attain the ultimate. It is natural for people to become attached to their experiences. One student who sat very well last night tried to repeat the experience today by recalling exactly what he did that resulted in that great sitting. But today the sitting went very poorly. This was due to his greed for the experience.
 
-> *No need to seek the real;*  
+> *No need to seek the real;*\
 > *Just extinguish your views.*
 
 We should not seek Buddha nature or enlightenment; rather, we should let it come about naturally. Such questions as “When will I get enlightened?” or “Is there a Buddha nature?” will take you even farther away from Buddha nature, which is a totality and not something you can grasp. Buddha nature is in the totality of your own self. Why should it be necessary to try to attain it? And how can you get hold of it? Don’t practice with the thought of reaching Buddhahood, just put forth your best efforts.
@@ -438,9 +438,9 @@ We should not seek Buddha nature or enlightenment; rather, we should let it come
 
 ## 6. Giving Up Expectations
 
-> *Do not abide in dualistic views;*  
-> *Take care not to seek after them.*  
-> *As soon as there is right and wrong*  
+> *Do not abide in dualistic views;*\
+> *Take care not to seek after them.*\
+> *As soon as there is right and wrong*\
 > *The mind is scattered and lost.*
 
 Dualistic views refer to the discriminating mind. They include any doubts about the correctness of your method, or whether your decision to attend this retreat was a right or a wrong one. If you lack faith, you will doubt the method you are using. On the other hand, if your confidence is too strong, then you will be expecting something out of the practice. Neither extreme is beneficial.
@@ -467,9 +467,9 @@ On retreat you are living with many people which may create an uncomfortable env
 
 ## 7. Beyond One Mind
 
-> *Two comes from one,*  
-> *Yet do not even keep the one.*  
-> *When one mind does not arise,*  
+> *Two comes from one,*\
+> *Yet do not even keep the one.*\
+> *When one mind does not arise,*\
 > *Myriad dharmas are without defect.*
 
 In yesterday’s talk I cautioned against abiding in duality. Although we should not abide in duality, we still must hold on to the method. Method is that which helps us to unify our minds, to replace the constant stream of scattered thoughts. After the mind is concentrated by the method, we eventually reach a point where the method itself disappears and the mind is one. Today someone said during the interview, “I have been practicing for quite a few years but I have never had the experience of forgetting my body, or my method disappearing.” I said, “You should not be too anxious about it. Just proceed naturally.” The state of one mind has to come about naturally. Naturally, the method will leave you behind; it is not for you to think of leaving the method behind. The state of one mind is not easy to attain. But today I will go one step further and say that even the one mind has to be transcended and left behind.
@@ -492,7 +492,7 @@ Thus there are two meanings of “one” referred to in this line: “Yet do not
 
 One thing should be clarified here. In the state of one mind, there are no vexations. Trouble can only develop in a state of discrimination. As long as you stay in a state of one mind, nothing can bother, tempt, or excite you. The problem with one mind is that it cannot last forever; inevitably, a thought will arise, and it will evolve into two, three, and many. The state of one can only be considered in relation to two. A true totality would not even be considered “one”; it can only be called “nothing.” It is only when a distinction is made that the one can exist at all, and in that case it will lead to two. You can only feel lonely when you are aware of the possible existence of another person. In complete totality, there is no sense of loneliness.
 
-> *Without defect, without dharmas,*  
+> *Without defect, without dharmas,*\
 > *No arising, no mind.*
 
 No mind, or Ch’an, is a state of non-arising and non-perishing. Not a single thought will arise, and even that unmoving mind fundamentally does not exist. There is nothing that can give you trouble, and nothing that you can give trouble to.
@@ -501,7 +501,7 @@ Both our body and mind need food to survive. There are two types of food for the
 
 ## 8. Illusions
 
-> *The subject is extinguished with the object.*  
+> *The subject is extinguished with the object.*\
 > *The object sinks away with the subject.*
 
 The mind dharma cannot arise by itself or function alone. It always co-exists with the form dharma. The Zen expression “one hand clapping” illustrates the impossibility of such a thing. The mind can only be found in the realm of mental objects.
@@ -526,11 +526,11 @@ Now we can understand why the methods of kung-an and hua-t’ou are different th
 
 ## 9. Awareness of Vexations
 
-> *Object is object because of the subject;*  
-> *Subject is subject because of the object.*  
-> *Know that the two*  
-> *Are originally one emptiness.*  
-> *In one emptiness the two are the same,*  
+> *Object is object because of the subject;*\
+> *Subject is subject because of the object.*\
+> *Know that the two*\
+> *Are originally one emptiness.*\
+> *In one emptiness the two are the same,*\
 > *Containing all phenomena.*
 
 These lines describe a non-discriminating mind in which, nevertheless, there is perfectly clear discrimination.
@@ -561,7 +561,7 @@ We have talked of emptiness from the point of view of existence and existence fr
 
 ## 10. Making Comparisons
 
-> *Not seeing fine or coarse,*  
+> *Not seeing fine or coarse,*\
 > *How can there be any bias?*
 
 “Fine or coarse” refers to the deepness or shallowness of practice. I have often cautioned you against comparing your practice with that of others or your own self at different times. Such comparisons are only subjective. Today someone burst out crying in the meditation hall. One person may have thought, “Oh, she’s not doing so well.” Another, “I think she’s becoming enlightened!” Or else, “Maybe she’s going crazy.” None of these thoughts may represent the true situation. Whether she felt pain or sorrow, became enlightened, or went crazy, it’s her business. It has nothing to do with anyone else. Making comparisons inevitably means judging others.
@@ -588,7 +588,7 @@ This is why there are various levels in Buddhism. It is a recognition of the man
 
 One who is really involved in the practice becomes like a mirror, without discrimination or biases. When you reach the point where the method disappears and even you disappear, your mind will be a mirror - containing nothing, reflecting perfectly.
 
-> *The Great Way is broad,*  
+> *The Great Way is broad,*\
 > *Neither easy nor difficult.*
 
 The purpose of using Ch’an methods in training students is to sweep away any attachments that remain in their minds. If they desire to attain Buddhahood, the master may say, “There is no Buddha.” No doubt, it is necessary to have a certain attachment to the method, to gain some result, such as samadhi or enlightenment. But when your mind is a steady stream, uninterrupted by extraneous thoughts, the Ch’an master will push you to let go of the idea of practice, to break your attachment to striving for an end.
@@ -607,7 +607,7 @@ People respond to difficulty in different ways. Some people become so overwhelme
 
 ## 11. Anxiety
 
-> *With narrow views and doubts,*  
+> *With narrow views and doubts,*\
 > \*Haste will slow you down.
 
 Those who take up the study of Buddhism before their views have expanded are subject to fears and doubts. They doubt the method and whether they can reach their objective. Like those who have narrow views and only see what is in front of their eyes, it is a shallow and limited perspective.
@@ -632,7 +632,7 @@ Consider the story about an inexperienced farmer who planted a field of rice. Af
 
 There is a Chinese saying: “You can’t dig a well with one scoop.” Another one is: “You can’t eat a cake in one bite.” It is better for the digestion to chew food until very fine before swallowing. It is the same with practice. Don’t try to swallow your practice in one gulp; chew it patiently. You have to be careful and meticulous.
 
-> *Attach to it and you lose the measure;*  
+> *Attach to it and you lose the measure;*\
 > *The mind will enter a deviant path.*
 
 When you grasp onto something, find a happy medium. For example, if you grasp the incense board too tightly, you will hurt the person you are hitting, and may even break the board. But if you hold it too loosely, you cannot aim accurately. You have to hold it just right - not too tight, not too loose. In any activity, you have to find just the right way to do it. This is difficult to accomplish without practice.
@@ -647,9 +647,9 @@ When I tell you to hold onto the method, it does not mean to grasp it blindly. S
 
 ## 12. Being Natural
 
-> *Let it go and be spontaneous,*  
-> *Experience no going or staying.*  
-> *Accord with your nature, unite with the Way,*  
+> *Let it go and be spontaneous,*\
+> *Experience no going or staying.*\
+> *Accord with your nature, unite with the Way,*\
 > *Wander at ease, without vexation.*
 
 The most important thing in practice is to be natural and spontaneous. Being natural does not mean neglecting everything. It requires careful attention. In meditation, you should sit in a natural posture and use your mind in a natural way. Sitting in a natural posture means sitting just right. If you are comfortable when you first assume the sitting posture, even if pains develop in your legs later on, that is still natural. It is unnatural, however, to sit bent over or leaning to one side, or with your head tipped back. A natural posture should follow the demands of your physiology. It is not natural to tighten your stomach muscles or to straighten your back by protruding your chest. To use your mind in a natural way means to avoid trying to control it. The more you try to control your mind, the more stray thoughts will come up to bother you. In fact, the very fear of stray thoughts is another stray thought. Therefore, if you have many stray thoughts, consider it a natural phenomenon and do not despise them. But on the other hand, if you completely give in to a train of wandering thoughts, that is not correct either. What is the best approach? Pay close attention to the method. If you do that, stray thoughts will be kept to a minimum. It is not that they will not arise, but you will not worry about them. If you are really paying attention to the method, you will be aware of a stray thought as soon as it arises. When it comes up, just let it go. Do not be afraid that another thought may follow it. That fear is an extra stray thought. It is just like a person who is carrying a stack of bowls. If someone says to him, “Be careful! You’re going to drop them!” he will drop them. But if nobody says anything, he will just keep going.
@@ -660,7 +660,7 @@ On the other hand, you should not have a defeatist attitude, thinking: “As lon
 
 But to follow your own nature, in this sense, is not the same as following your personal habits or whims, as in the expression “be natural.” Nature here refers to your self-nature, or Buddha nature. Some people think that one can become a Buddha through meditation. This is wrong. The potential for Buddhahood is already within your own nature. If it were true that Buddhahood depended on meditation, then if you stopped meditating after becoming a Buddha, you would become a common person again. The objective of practice is to be in accord with the natural way, so that your true nature can manifest itself. Just practice according to the methods taught by the Buddha and do not worry about being a success. The Heart Sutra says, “There is no wisdom and no attainment.” Although practice may be trying, even physically painful, if your heart is carefree, nothing will bother you. A carefree approach does not mean not caring about how you practice; it means considering anything that happens as natural. There may be some pain, but there will be no suffering. There is nothing in your mind that you cannot put down.
 
-> *Bound by thoughts, you depart from the real;*  
+> *Bound by thoughts, you depart from the real;*\
 > *And sinking into a stupor is as bad.*
 
 To be in bondage to your thoughts means to be influenced and carried away by various conditions in your surroundings. If you do this, you are grasping the false. You can try to limit your thoughts by using the method. But in fact, as long as the method is still in your mind, you are still abiding in the false, not in the real. But in that case, should you discard the method? The problem with discarding the method is that, while you may seem to have no thoughts, you may still fall into a foggy state. Even though the method is not real, it is even worse to be suspended in a nebulous frame of mind. The ideal state would be to drop the fogginess along with the method, to be unattached to conditions. What does it mean to be unattached to conditions? It means that there are no thoughts in your mind, but whatever appears is perfectly clear.
@@ -671,9 +671,9 @@ The method is another way of grasping onto thoughts, but it is a way that allows
 
 ## 13. Accepting All Realms
 
-> *It is not good to weary the spirit.*  
-> *Why alternate between aversion and affection?*  
-> *If you wish to enter the one vehicle,*  
+> *It is not good to weary the spirit.*\
+> *Why alternate between aversion and affection?*\
+> *If you wish to enter the one vehicle,*\
 > *Do not be repelled by the sense realm.*
 
 Let’s return to the opening lines of the poem, “The Supreme Way is not difficult if only you do not pick and choose.” Actually, it is not hard to reach enlightenment if you do not grasp or reject. The poem encourages us to practice without attachment. As soon as you become attached to something, you lose the direction of the method.
@@ -694,7 +694,7 @@ This also includes not being disturbed by the person sitting next to you. On one
 
 ## 14. Limiting the Environment
 
-> *With no aversion to the sense realm,*  
+> *With no aversion to the sense realm,*\
 > *You become one with true enlightenment.*
 
 The true practitioner is not affected by the environment. If you enjoy your surroundings too much, you will not even think about practicing. But if you despise your surroundings, you will not be able to practice even if you try.
@@ -705,7 +705,7 @@ If you limit your attention to your body, either you feel comfortable or uncomfo
 
 Once you narrow yourself down to the mental environment, there are two things you are involved with - the method, and stray thoughts. You will find that your mind is just as full as the outside environment. As the Sutra of Complete Enlightenment says, “Mental activities are just a shadow of the sensory world.” Thus if you manage to dispense with all your environments, you will attain the state of no mind, and you will reach a great realization.
 
-> *The wise have no motives;*  
+> *The wise have no motives;*\
 > *Fools put themselves in bondage.*
 
 The more you strive after liberation, the more you tie yourself up. This is also true of seeking safety, health and security. Once I was approached by a life insurance agent who did not know I was a monk. He said, “Our insurance policy is excellent. No matter what happens to you, your wife and children will be taken care of.” I asked, “What if I don’t have a wife and children?” He had nothing to say after that. He saw that I had no worries about death.
@@ -718,7 +718,7 @@ This is why you should not look for something here you can take home with you. O
 
 ## 15. One Dharma
 
-> *One dharma is not different from another.*  
+> *One dharma is not different from another.*\
 > *The deluded mind clings to whatever it desires.*
 
 In complete enlightenment, there are no different dharmas, or objects of existence; there is only the one Dharma. But you cannot say that this one, perfect Dharma either exists or does not exist. To exist, it would have to be opposed to something else that does not, and vice versa. Buddhism does not speak in terms of opposites or of the absolute. Nothing can be absolutely affirmed or denied. When you attach to or reject anything, you are in a position of duality with that object.
@@ -727,12 +727,12 @@ In most religions, if you reach a stage where you identify completely with the u
 
 If there is only one Dharma, it is erroneous to seek the Dharma outside or within yourself. That would create a duality. Some people imagine that getting enlightened is seeing a Buddha nature within themselves. I tell you that there is nothing to see. Whatever you see is an illusion. Buddha nature is empty nature. If you seek something, how can you get to emptiness? The Diamond Sutra says that there is no Dharma form and also that there is nothing that is not the form of the Dharma. Thus we should not become attached to either existence or emptiness.
 
-> *Using mind to cultivate mind*  
+> *Using mind to cultivate mind*\
 > *Is this not a great mistake?*
 
 When you practice, you are using your mind to work on your mind. You use a deluded thought, the method, to reduce your other deluded thoughts. But the real Ch’an is methodless. No-method is to practice with nothing in your mind, and to be clearly aware that there is nothing in your mind. Moment by moment, maintain the state of no-thought. If a thought arises, just return to no-thought. If I ask you a question while you were in this state you would answer spontaneously. If you have to think about what to say, your mind is already moving. Nowadays, it is impossible for most to maintain this state of mind. In the past, practitioners were able to put in twenty or more years of solid practice. It is difficult for one with a daily work routine to do this. But you should still be aware that although you rely on a method, whether it be breath counting, kung-an, or reciting the Buddha’s name, it is not the true Ch’an. The true Ch’an transcends all methods.
 
-> *The erring mind begets tranquility and confusion;*  
+> *The erring mind begets tranquility and confusion;*\
 > *In enlightenment there are no likes or dislikes.*
 
 Before enlightenment, people distinguish between a quiescent state, which they call “nirvana,” and a chaotic state, which they call “samsara.” They want to leave samsara behind and enter nirvana. But seeking to leave the world of noise and confusion to get to a peaceful place is like looking for a rabbit with horns. There is no Buddha Dharma to be found outside of this world. In the Platform Sutra, the Sixth Patriarch says that to leave the world is to be in the world. The true practitioner does not despise a chaotic environment, nor does he need to go deep into the mountains. He just flows with causes and conditions. Wherever he is, that is his place of practice. He does not feel cramped in a crowded place, nor does he feel lonely in an isolated place.
@@ -741,7 +741,7 @@ Before enlightenment, people distinguish between a quiescent state, which they c
 
 ## 16. The Dreaming Mind
 
-> *The duality of all things*  
+> *The duality of all things*\
 > *Issues from false discriminations.*
 
 Some examples of dualities, or opposites, are: you and me, the Buddha and sentient beings, nirvana and samsara, wisdom and ignorance. In the Platform Sutra, the Sixth Patriarch enumerates thirty-six pairs of opposites. One who seeks wisdom and rejects ignorance as if they were opposites is deluded. A person who thinks of himself as wise is full of self-pride. On the other hand, a person who thinks of himself as ignorant is full of self-pity.
@@ -750,7 +750,7 @@ The Heart Sutra says: “There is no wisdom and no attainment; with nothing to a
 
 During retreat I use various means to inspire you to practice, including harsh language. To take this to heart and consider yourself a worthless, incapable person, or else to fight back and deny what I say are both incorrect attitudes. My aim is to whittle down your self-pride or self-pity. However harshly I may seem to treat you, do not dwell on it and feel sorry for yourself. Nor should you feel happy if I praise you. However, from my point of view, I have to discern between the types of practitioners. Some do not react well under pressure. They are like tender bean sprouts that have to be treated gently. Others, whose practice has matured somewhat, can handle more forceful techniques; the more they are pressured, the better they do.
 
-> *A dream, an illusion, a flower in the sky*  
+> *A dream, an illusion, a flower in the sky*\
 > \* - How could they be worth grasping?\*
 
 From the age of ten, I have always seen flower-like images in the sky. This is due to a malfunction of my eyesight. But I have learned not to pay any attention to them. Whatever you consider to be solid or real are only flowers in the sky. Even genuine achievements are still false in the sense that they are not permanent. There was an aerospace company that advertised an innovative way to continue on after death. They would shoot a satellite containing your ashes into orbit around the earth, and there it would spin for about 36,000 years. Even though this seems like an eternity, about nine times the length of civilized history, the time will eventually pass. The earth itself will disappear. There is no sense in trying to pretend otherwise.
@@ -761,12 +761,12 @@ People sometimes ask Ch’an masters, “What happened to you? What did you real
 
 But if nothing is real or lasting, what is the point of coming to retreat and practicing Ch’an? The point is that during the course of practice, you may come to realize that everything around you, as well as whatever you seek out of life, are illusory. The ordinary person does not know this. Even if you convince yourself intellectually that everything is illusory, you may still have a lurking concept of the reality of things and be attached to them. To be able to actually treat them as transient is another thing entirely.
 
-> *Gain and loss, right and wrong*  
+> *Gain and loss, right and wrong*\
 > *Discard them all at once.*
 
 Some of you had pleasant experiences today, and others just ended up with aching legs. If you spend your time hoping that a pleasant experience will return, or trying to avoid pain, you will become more aware of the passing of time. You will feel restless and think, “Today has gone by already and I’ve wasted my time.” Some people have this attitude when, after a day or two, they feel they have not made any progress. They tell themselves that they could be doing so many other things at home, or furthering their career. If you feel you have not gotten anywhere, discard this attitude immediately. If you continue to dwell on these things, you probably will give up and go home.
 
-> *If the eyes do not close in sleep,*  
+> *If the eyes do not close in sleep,*\
 > *All dreams will cease of themselves.*
 
 “The eyes” are your awareness. The instant you lose awareness of just what you are doing at the moment, you are dreaming. Dreaming means being carried away by your wandering thoughts and unable to stop them. As in actual dreams, these wandering thoughts are either connected with the past, or anticipate the future. They are not concerned with the present, because the present is just keeping your mind on your method.
@@ -781,9 +781,9 @@ It is common for people to want a vacation after working hard. But during the va
 
 ## 17. Climbing the Crystal Mountain
 
-> *If the mind does not discriminate,*  
-> \*All dharmas are of one suchness.  
-> *The essence of one suchness is profound;*  
+> *If the mind does not discriminate,*\
+> \*All dharmas are of one suchness.\
+> *The essence of one suchness is profound;*\
 > *Unmoving, conditioned things are forgotten.*
 
 When you do not discriminate, you see everything as one. There is no difference between mind and body, inside and outside. Your mind is unified. You have left behind the sense of small self and have entered the state of great self. You are imbued with tremendous confidence. If you want to call this oneness “enlightenment,” there is nothing wrong with that, but it is not Ch’an enlightenment. To experience Ch’an, you must probe the mysterious essence of suchness.
@@ -792,14 +792,14 @@ I have emphasized that when there is a sense of one, there are actually two. To 
 
 Ch’an is a lively practice which does not neglect the world. The Sixth Patriarch said, “Samadhi is not Ch’an.” Practitioners of Ch’an lead normal lives. They do not speak of oneness or emptiness. The only difference is that there is no obstruction or attachment in their minds.
 
-> *Contemplate all dharmas as equal,*  
+> *Contemplate all dharmas as equal,*\
 > *And you return to things as they are.*
 
 In fact, these two lines refer to different things. “Contemplate all dharmas as equal” refers to non-discrimination, or one mind. “Things as they are” refers to returning to the ordinary life. In the state of one mind, the small self has died, but the great self is still present. There has to be a great death before we can experience a great rebirth. With this great rebirth will come a great love. When the great self dies, we enter no self, or Ch’an.
 
 Once a student misunderstood this talk about small death and great death. He asked me to let him die here on retreat. In this way, he would accumulate merit in the company of his fellow practitioners. I told him, “If you die here you would only go to hell. It’s a very hot time of year, and if we keep your corpse lying around, the smell will interfere with others’ practice.” The death I am talking about is not a physical death. It is the death of your self-centered mind. This cannot come about merely by wishing to die. If you killed yourself a thousand times it would not do you any good. You would still be in samsara.
 
-> *When the subject disappears,*  
+> *When the subject disappears,*\
 > *There can be no measuring or comparing.*
 
 If you let go of every thought object, there will be nothing to distinguish yourself from, and you will disappear. Today someone remarked, “I still have a self left. I have to get rid of this self.” I said, “Self is not something you can get rid of. Self is not inside; it is not identical to your body or your mind. Rather, self is precisely the object of all of your thoughts and actions. Other than this, there is no self. Can your mind have no object? Usually we think of the method as something we can rely on, as a bridge to get us across the river. But Ch’an is really the method of no-method. There is no bridge provided, because there is no river. If you let go of your attaching mind, at that very moment you are enlightened.
@@ -808,9 +808,9 @@ Practice is a foolish endeavor, like climbing a crystal mountain covered with oi
 
 ## 18. Rest and Activity
 
-> *Stop activity and there is no activity;*  
-> *When activity stops, there is no rest.*  
-> *Since two cannot be established,*  
+> *Stop activity and there is no activity;*\
+> *When activity stops, there is no rest.*\
+> *Since two cannot be established,*\
 > *How can there be one?*
 
 In Ch’an practice it is not necessary to stop wandering thoughts. The reason is that activity and rest are not in opposition. But if there is no such duality, then there is no oneness to speak of either. We call this retreat a Ch’an retreat but actually it is just a suffering or training retreat. Ch’an is methodless, but everyone here is using certain methods. The purpose of the methods is to replace your wandering thoughts. But the methods themselves are wandering thoughts. Therefore, to use a method to stop the activity of your thoughts is in itself activity. There can be no such thing as rest.
@@ -821,7 +821,7 @@ On the other hand, it is possible for the mind to seem to be at rest even when i
 
 Likewise, a person with an agile mind can resolve many problems without effort. He would not be conscious of any strenuous mental activity. A person with slower mental faculties, however, may sense more vexations and feel that his mind has gone through a lot of thinking, when actually it has dealt with fewer problems.
 
-> *In the very ultimate,*  
+> *In the very ultimate,*\
 > *Rules and standards do not exist.*
 
 The ultimate is beyond all human rules and laws. It cannot be judged by worldly standards. Thoroughly enlightened people spontaneously help sentient beings in accordance with causes and conditions. Their actions are not bound by the moral codes of society. This is not the case for ordinary people. We must abide by certain principles and rules. But if the thoroughly enlightened are bound by these laws, it would not be genuine liberation. For them there is no boundary between activity and rest.
@@ -830,21 +830,21 @@ But the misinterpretation of this truth has caused great harm. Some people think
 
 Master Hsu-Yun, though a monk, never shaved his head. Thus, he appeared to be one of those who did not observe the rules. However, he insisted that his disciples have shaved heads. The reason why Hsu-Yun never shaved is that during his long period of practice, he did not have the time. Later, when he was an accomplished master he was already accustomed to not shaving. Though his hair was unruly, he conducted his life was very rigorously and in strict accord with the precepts. A Ch’an master may seem carefree, but behind superficial appearances there is a solid foundation. It is only upon a solid foundation that one can draw on a truly liberated spirit not limited by rules.
 
-> *Develop a mind of equanimity,*  
+> *Develop a mind of equanimity,*\
 > *And all deeds are put to rest.*
 
 A mind of equanimity is a mind without distinctions; in other words, there is no rest and no activity. When your mind is in this condition, whatever you do is the same as not doing anything at all. Your mind is at rest within activity. There is a saying that on becoming an arhat,[^15] whatever has to be done has already been accomplished. Similarly, in the Platform Sutra, it is said that when there is no concern about good or evil, you can stretch out your legs and take a nap. When the mind is not making distinctions, there is no self, no other, no good, no bad. There is really nothing that needs to be done. This does not mean that you do nothing, but that your mind is in a state of rest. In fact, it is not even correct to speak of your mind. A person in this condition uses the mind of sentient beings.
 
-> *Anxious doubts are completely cleared.*  
+> *Anxious doubts are completely cleared.*\
 > *Right faith is made upright.*
 
 With a mind of equanimity, there is no longer any confusion or doubt about the Dharma. Even if you believe in the Dharma, but have not experienced realization, that is not called “right faith.” You must have your own realization so that your faith will be affirmed and never change. Your mind will be straightforward without distortion. This means that whatever you endeavor, you will not make the wrong decision from the point of view of Dharma. The ordinary person may make erroneous judgments and actions, because he uses a mind of distinctions.
 
 \*\* 19. Leaving No Trace
 
-> *Nothing lingers behind,*  
-> *Nothing can be remembered.*  
-> \*Bright and empty, functioning naturally,  
+> *Nothing lingers behind,*\
+> *Nothing can be remembered.*\
+> \*Bright and empty, functioning naturally,\
 > \*The mind does not exert itself.
 
 After a bird has flown from one tree to another, what trace did it leave in the air? Again, when you stand in front of a mirror,you see your image reflected in it. But after you have gone, what is left in the mirror? Your mind should be like this; any event that occurs should leave no trace in your mind.We cannot deny that the bird has actually flown a certain distance, or that the mirror has reflected you. But it is precisely because the bird did not leave a trace that other birds are free to fly over the same route, and it is precisely because the mirror does not retain your image that other people can also see their images. If traces were left in the sky, would it look as spacious as it does to us now? If the mirror retained images, would it still be able to reflect? Likewise, the accumulation of knowledge and experiences only adds obstructions. For instance, whatever you have learned previously from other teachers is like the trace of a bird, or the image left behind on a mirror. If these things stay in your mind on retreat, you will not be able to absorb my teachings because there will be an overlap of images. On the first evening I told you to forget everything that happened in the past; do not attempt to compare what happens on this retreat with your former experiences.
@@ -853,23 +853,23 @@ Not remembering anything does not mean that you are like a stone or a piece of w
 
 Today someone found the Ch’an hall too hot, and so kept taking off layers of clothing; but when he looked around, it seemed that everyone else did not mind the heat. Finally he could bear it no longer and came to talk to me. I told him that he felt so hot because he was thinking that it was hot. If his mind was on practice he would not be aware of the heat. He took my advice and it worked. It is the mind that generates these vexations. The environment may contribute, but if your mind does not cooperate, it will not pose a problem for you.
 
-> *It is not a place of thinking,*  
+> *It is not a place of thinking,*\
 > *Difficult for reason and emotion to fathom.*
 
 It is impossible to explain the state when there is nothing left in the mind. For the past few evenings, I have been talking about no mind. A few people have asked me, “What is this no mind you are talking about?” I said, “No mind is just no mind. Even if I were to tell you, you still would not know. You cannot use your reasoning or knowledge to imagine it. You can only know by personal experience.”
 
 When I was in my teens someone told me he had a ringing in his ears. I asked him to describe it, and he explained it was like the humming of bees. I still did not understand what it felt like. Later when I was forty, I experienced it myself. If physiological experiences are difficult to imagine, all the more so with Ch’an, which is beyond all normal experience.
 
-> *In the Dharma Realm of true suchness,*  
+> *In the Dharma Realm of true suchness,*\
 > *There is no other, no self.*
 
 True suchness refers to things as they really are, without eternal existence. Some think that true suchness is something eternal that can be held on to, but actually there is no such thing. Neither is there any Dharma Realm. True suchness is neither self nor other. Many practitioners seek to discover their self-nature, which they identify with Buddha nature, or true suchness. But this implies a certain existence. True suchness is neither yourself nor another.
 
 Someone said to me, “I know that the self I am familiar with is an illusion. I want to find the true one.” I replied, “The self you have now is illusory. But even the true self is illusory. Nevertheless, you must try to find it. If you don’t find it, you won’t know it is an illusion.”
 
-> *To accord with it is vitally important;*  
-> \*Only refer to “not-two.”  
-> *In not-two all things are in unity;*  
+> *To accord with it is vitally important;*\
+> \*Only refer to “not-two.”\
+> *In not-two all things are in unity;*\
 > *Nothing is excluded.*
 
 To be in accord with true suchness, two things cannot be different; they are “not-two” in the sense of not being more than one. However, it would not be meaningful to speak of something according with itself. Thus, we cannot speak of one or two. We can only say “not-two.” In true suchness, there is accordance with all sentient beings. The Buddha is in accord with sentient beings, and sentient beings can be in accord with each other. Accordance is a communication, or connection, between two things, such that they form a unity. For example, in marriage, two people come together without losing their own individuality.
@@ -886,43 +886,43 @@ There are two possible interpretations of the line “One thought for ten thousa
 
 The second explanation is that there is no mind. “Ten thousand years” is a term used to indicate unlimited time. No mind is unlimited; one instant can encompass ten thousand years.
 
-> *Abiding nowhere yet everywhere,*  
+> *Abiding nowhere yet everywhere,*\
 > *The ten directions are right before you.*
 
 This single incense board is true suchness in its entirety. But if you think that only the incense board is true suchness, you are wrong. True suchness is everywhere; nothing is separate from true suchness. The previous two lines referred to Ch’an as being unlimited by time. These two lines are speaking of the limitlessness of space. If you can grasp a small spot, you have access to totality. At the tip of a fine strand of hair all the Buddhas of the three times and the ten directions are turning the Dharma wheel. If a person who is thoroughly enlightened reads these lines, he would say, “Indeed it is just like that! It is not anything different.” But for someone with only a theoretical understanding, it is like gazing at flowers through a mist, obscured by your own thoughts.
 
-> *The smallest is the same as the largest*  
-> *In the realm where delusion is cut off.*  
-> \*The largest is the same as the smallest;  
+> *The smallest is the same as the largest*\
+> *In the realm where delusion is cut off.*\
+> \*The largest is the same as the smallest;\
 > \*No boundaries are visible.
 
 In the state where the spot in front of your eyes is equivalent to totality, there is no room for illusory dharmas. Illusory dharmas are the dharmas of distinctions, of small and large, of positing one thing against another. Usually, we see something as small because it is in relation to something bigger than itself. To say that the largest is equivalent to the smallest erases all boundaries. This refers again to true suchness.
 
 Someone asked, “After a person attains Buddhahood, where would he be?” There are three bodies of the Buddha, the trikaya[^17] - the transformation body, the reward body, and the Dharma body. The transformation body appears in a particular time and place in the human realm. The reward body also appears for the sake of sentient beings; for this reason, it is limited in location. But the Dharma body of the Buddha is not limited to any time or place. You cannot say it is here or it is there. It is simultaneously the largest and the smallest. It has the greatest power, but at the same time it has no power whatsoever. It is smaller than anything we can know of, because it has no self. But because the Dharma body of the Buddha has no self, all sentient beings are identical to this body. Wherever sentient beings need the Buddha, the Dharma body can function for their benefit.
 
-> *Existence is precisely emptiness;*  
+> *Existence is precisely emptiness;*\
 > *Emptiness is precisely existence.*
 
 The Dharma body of the Buddha, or true suchness, cannot be said to “exist” because there is no self. However, it can be experienced because if your practice reaches a certain depth. True suchness is not identical to nothingness. Everything that exists in the three times and ten directions is never separate from it. “Emptiness” refers to no self and “existence” refers to causes and conditions.
 
 Some Ch’an masters speak only of existence and some speak only of emptiness. Others sometimes speak of existence and sometimes speak of emptiness, depending on the audience. But they are all speaking of the same thing. One time a monk complained to me, “In my opinion, most, if not all, Ch’an masters are lunatics. If you talk to them about existence, they uphold the idea of emptiness. If you talk to them about emptiness, they affirm existence.” Ch’an cannot be spoken or conceived. Indeed, since it cannot be expressed in words, whatever you say about it, as existence or emptiness, can be criticized.
 
-> *If it is not like this,*  
+> *If it is not like this,*\
 > *Then you must not preserve it.*
 
 You have to let go of your previous views: self-attachment, attachment to existence, emptiness, large and small, boundedness, unboundedness, truth and illusion.
 
-> *One is everything,*  
+> *One is everything,*\
 > *Everything is one.*
 
 True suchness is identical to all phenomena and all phenomena are never separated from true suchness. It must be understood in this sense, and not in the sense that all phenomena reduce to one. There is no distinction between unification and non-unification in true suchness. Otherwise, taking these two lines literally would imply that if one person becomes a Buddha, everyone else has to become a Buddha. Or, all sentient beings must attain Buddhahood before there can be even one Buddha, since all sentient beings are one. This would not hold on a common sense level, yet it can be understood on the deeper level just explained.
 
-> *If you can be like this,*  
+> *If you can be like this,*\
 > *Why worry about not finishing?*
 
 When you know that true suchness is identical to all phenomena, then there are no worries about getting enlightened or attaining Buddhahood. Faith and mind are not two; Non-duality is faith in mind. If you have faith in the mind of equanimity and non-distinction, you have faith in no mind. However, the mind of the person who has faith is the mind of an ordinary sentient being. What the poem says is that the mind of faith is not separate from no mind, the mind that is the object of the faith. This is the same as saying that true suchness is identical to all phenomena. Although the two minds are identical, you must begin with faith to give you direction in your practice. Not only must you have faith in no mind, but you must have faith in every single word of this poem and act accordingly. In this way, you can attain the mind of no mind.
 
-> *The path of words is cut off;*  
+> *The path of words is cut off;*\
 > *There is no past, no future, no present.*
 
 During the course of practice, we employ the use of words to guide us. But when faith and mind are not separate, all words and language are unnecessary, including the poem Faith in Mind. Again, during practice, there is a distinction between past, present and future. Progress is measured in terms of time, but when faith and mind are not separate, these distinctions are abolished.

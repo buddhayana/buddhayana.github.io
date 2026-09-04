@@ -4,22 +4,22 @@ Turning your mind towards the dharma is the beginning of anyone’s journey on t
 
 This understanding of saṃsāra is necessary to turn the mind towards the Dharma. To deepen and experience this understanding we contemplate the Four Reminders:
 
-> *First, contemplate the preciousness of being free and well-favoured.*  
-> *This is difficult to gain, easy to lose; now I must do something meaningful.*  
->   
-> *Second, the whole world and its inhabitants are impermanent;*  
-> *In particular, the life of beings is like a bubble.*  
-> *Death comes without warning; this body will be a corpse.*  
-> *At that time, the dharma will be my only help; I must practice it with exertion.*  
->   
-> *Third, when death comes, I will be helpless.*  
-> *Because I create karma, I must abandon evil deeds*  
-> *And alway devote my time to virtous actions.*  
-> *Thinking this, every day I will examine myself.*  
->   
-> *Fourth, the homes, friends, wealth, and comforts of saṃsāra*  
-> *Are the constant torment of the [:three sufferings](https://www.rigpawiki.org/index.php?title=Three_types_of_suffering),*  
-> *Just like a feast before the executioner leads you to your death.*  
+> *First, contemplate the preciousness of being free and well-favoured.*\
+> *This is difficult to gain, easy to lose; now I must do something meaningful.*\
+> \
+> *Second, the whole world and its inhabitants are impermanent;*\
+> *In particular, the life of beings is like a bubble.*\
+> *Death comes without warning; this body will be a corpse.*\
+> *At that time, the dharma will be my only help; I must practice it with exertion.*\
+> \
+> *Third, when death comes, I will be helpless.*\
+> *Because I create karma, I must abandon evil deeds*\
+> *And alway devote my time to virtous actions.*\
+> *Thinking this, every day I will examine myself.*\
+> \
+> *Fourth, the homes, friends, wealth, and comforts of saṃsāra*\
+> *Are the constant torment of the [:three sufferings](https://www.rigpawiki.org/index.php?title=Three_types_of_suffering),*\
+> *Just like a feast before the executioner leads you to your death.*\
 > *I must cut desire and attachment and attain enlightenment through exertion.*
 
 The Four Reminders are a foundational practice the Tibetan Kagyu and Nyingma traditions. This practice consist of [:shamatha and vispashyana](https://en.wikipedia.org/wiki/Samatha-vipassan%C4%81), a combination of calm abiding and insight medication. A daily routine looks like this:

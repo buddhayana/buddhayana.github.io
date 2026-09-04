@@ -1,5 +1,5 @@
-  
-  
+\
+\
 
 ![](images/dk-and-cnr.jpg)
 
@@ -17,10 +17,10 @@ These pages contain my personal musings: texts that inspire me, reflections on t
 
 [ ](https://dkapitan.bsky.social) [ ](https://github.com/dkapitan/buddhayana) [ ](https://linkedin.com/in/dkapitan)
 
-  
-  
-  
-  
+\
+\
+\
+\
 
 ![](./images/landscape.jpg)
 
@@ -55,6 +55,16 @@ The term “early Buddhism” refers to approximately the first two centuries in
 Bhikku Anālayo
 
 Nov 27, 2023
+
+![](./images/master-xu-yun.webp)
+
+##### Hua-t’ou
+
+*Hua-t’ou*, literally transalated ‘head word’ or ‘critical phrase’ is a practice used in Chinese Ch’an, Japanese Zen and Korean Seon. This practice is less well known…
+
+Stuart Lachs
+
+Feb 1, 2012
 
 ![](./samadhi-as-unification/images/hoofprint-of-the-ox.jpg)
 
