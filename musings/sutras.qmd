@@ -22,5 +22,3 @@ image: /images/sutra.jpg
 - [Letter to a Friend](https://studybuddhism.com/en/tibetan-buddhism/original-texts/sutra-texts/letter-to-a-friend)
 
 ---
-
-

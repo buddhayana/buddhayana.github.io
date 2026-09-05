@@ -23,16 +23,16 @@ listing:
     grid-columns: 2
     sort: false
     contents:
-        - xinxinming.qmd
-        - earth-touching.qmd
+        - chan/xinxinming.qmd
+        - musings/earth-touching.qmd
         - early-buddhism/meditation-analayo.qmd
         - early-buddhism/early-buddhist-meditation.qmd
-        - huatou.qmd
-        - samadhi-as-unification/index.qmd
+        - chan/huatou.qmd
+        - chan/samadhi-as-unification/index.qmd
         - tai-chi/index.qmd
         - gampopa/index.qmd
-        - sutras.qmd
-        - indonesia.qmd
+        - musings/sutras.qmd
+        - musings/indonesia.qmd
 
 
 

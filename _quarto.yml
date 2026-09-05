@@ -15,12 +15,12 @@ website:
     collapse-level: 1
     background: white
     contents:
-      - xinxinming.qmd
-      - earth-touching.qmd
-      - samadhi-as-unification/index.qmd
-      - huatou.qmd
-      - sutras.qmd
-      - indonesia.qmd
+      - section: Chan
+        href: chan/index.qmd
+        contents:
+        - chan/xinxinming.qmd
+        - chan/samadhi-as-unification/index.qmd
+        - chan/huatou.qmd
       - section: Early Buddhism
         href: early-buddhism/index.qmd
         contents:
@@ -33,12 +33,18 @@ website:
           - gampopa/dharma-progress-along-path.qmd
           - gampopa/path-clarify-confusion.qmd
           - gampopa/confusion-dawn-as-wisdom.qmd
+      - section: Musings
+        href: musings/index.qmd
+        contents:
+        - musings/earth-touching.qmd
+        - musings/sutras.qmd
+        - musings/indonesia.qmd
       - section: Yang-style tai chi
         href: tai-chi/index.qmd
         contents:
           - tai-chi/daoist-exercises.qmd
           - tai-chi/tai-chi-mindfulness-body.qmd
-      - samadhi-as-unification/index.qmd
+
 
 format:
   html:

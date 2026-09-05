@@ -1,0 +1,8 @@
+---
+title: Personal musings
+listing:
+  type: grid
+  grid-columns: 2
+  contents:
+    - "./*.qmd"
+---
