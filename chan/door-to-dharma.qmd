@@ -70,17 +70,17 @@ Once we have made some progress in calming the mind we may be able to take up th
 
 Meditation is usually done in some variant of a seated posture and for this reason meditation is often referred to as ‘sitting’. There are several postures which may be suitable. The key is to identify a posture in which you can remain balanced, stable, and relaxed, so that your mind is not disturbed by an uncomfortable body.
 
-![](images/posture-chair.png)
+![](/images/posture-chair.png)
 
 Sitting on a chair, preferably an upright dining-style chair, can work well. Use a wedged cushion or sit on the front edge of a meditation cushion placed on the seat, without leaning on the chair back. Leaning back on a more comfortable chair may also work but it is more likely that you will slip into drowsiness instead of meditation.
 
 A ‘kneeling chair’ may also be used. There are various designs of these marketed to people suffering from back pain, and they may also be suitable for meditation.
 
-![](images/posture-kneeling.png)
+![](/images/posture-kneeling.png)
 
 A kneeling position with the body weight supported on a cushion or kneeling bench works well for many.
 
-![](images/posture-lotus.png)
+![](/images/posture-lotus.png)
 
 In the East, use of cross-legged postures such as lotus posture is traditional but these are often difficult for Westerners who have not been brought up sitting cross-legged on the floor.
 
@@ -96,7 +96,7 @@ Start with the face. Check that the eyelids are relaxed with the eyes a little o
 
 If your shoulders are tense or hunched let them drop and relax. Arms also should be relaxed. The traditional position for the hands is to have the palms facing upwards, one on top of the other, with the tips of the two thumbs lightly touching.
 
-![](images/posture-mudra.png)
+![](/images/posture-mudra.png)
 
 To avoid tension ensure there is support for the hands and that they do not require any effort to be held in position. You may rest them in your lap but it is often better to place a small cushion or towel on your lap to make a platform on
 which to rest the hands. In this way there is no effort needed to support them and the hands, arms and shoulders can all

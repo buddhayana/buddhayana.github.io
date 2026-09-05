@@ -62,7 +62,7 @@ The poem contains phrases that will later on assume importance in the Ts'ao Tung
 ::::{.cr-section}
 
 :::{#cr-image}
-![](./images/thousand-buddhas.png)
+![](/images/thousand-buddhas.png)
 :::
 
 :::{focus-on="cr-image"}
