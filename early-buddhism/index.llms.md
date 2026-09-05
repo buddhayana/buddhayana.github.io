@@ -1,6 +1,6 @@
 # Mindfulness and practice in early Buddhism
 
-At some point I will add my personal reflection on how early Buddhist practice, Chan and Mahamudra compare.
+At some point I intend to add my personal reflection on how early Buddhist practice, Chan and Mahamudra compare.
 
 ![](../images/bodhisattva-gemini.jpg)
 

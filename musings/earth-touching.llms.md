@@ -108,8 +108,8 @@ once you enter the mudra of Earth Touching.
 *by Thich Nhat Hahn,\
 originally published in **Call Me By My True Names (1999)***
 
-![](./images/tek-chok-ling.jpg)
+![](../images/tek-chok-ling.jpg)
 
-![](./images/nepal-bridge.jpg)
+![](../images/nepal-bridge.jpg)
 
-*back to [homepage](index.llms.md)*
+*back to [homepage](../index.llms.md)*

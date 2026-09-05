@@ -6,4 +6,4 @@ A story to tell on the [:Borobudur](https://en.wikipedia.org/wiki/Borobudur), th
 
 More to follow soon …
 
-![](images/1987-buddha-dan-borobudur.jpg)
+![](../images/1987-buddha-dan-borobudur.jpg)

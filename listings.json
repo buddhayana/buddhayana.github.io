@@ -2,16 +2,24 @@
   {
     "listing": "/index.html",
     "items": [
-      "/xinxinming.html",
-      "/earth-touching.html",
+      "/chan/xinxinming.html",
+      "/musings/earth-touching.html",
       "/early-buddhism/meditation-analayo.html",
       "/early-buddhism/early-buddhist-meditation.html",
-      "/huatou.html",
-      "/samadhi-as-unification/index.html",
+      "/chan/huatou.html",
+      "/chan/samadhi-as-unification/index.html",
       "/tai-chi/index.html",
       "/gampopa/index.html",
-      "/sutras.html",
-      "/indonesia.html"
+      "/musings/sutras.html",
+      "/musings/indonesia.html"
+    ]
+  },
+  {
+    "listing": "/musings/index.html",
+    "items": [
+      "/musings/earth-touching.html",
+      "/musings/sutras.html",
+      "/musings/indonesia.html"
     ]
   }
 ]

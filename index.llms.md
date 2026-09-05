@@ -60,13 +60,13 @@ Nov 27, 2023
 
 ##### Hua-t’ou
 
-*Hua-t’ou*, literally transalated ‘head word’ or ‘critical phrase’ is a practice used in Chinese Ch’an, Japanese Zen and Korean Seon. This practice is less well known…
+*Hua-t’ou*, literally transalated ‘head word’ or ‘critical phrase’ is a practice used in Chinese Chan, Japanese Zen and Korean Seon. This practice is less well known…
 
 Stuart Lachs
 
 Feb 1, 2012
 
-![](./samadhi-as-unification/images/hoofprint-of-the-ox.jpg)
+![](./chan/samadhi-as-unification/images/hoofprint-of-the-ox.jpg)
 
 ##### Becoming one with everything… and going beyond
 
@@ -104,4 +104,4 @@ There are thousands of Buddhist texts, spanning many vehicles, disciplines and t
 
 ##### Tantra in Indonesia
 
-[A story to tell on the](indonesia.llms.md) [:Borobudur](https://en.wikipedia.org/wiki/Borobudur), the [:Prajnaparamita of Java](https://en.wikipedia.org/wiki/Prajnaparamita_of_Java) and how…
+[A story to tell on the](musings/indonesia.llms.md) [:Borobudur](https://en.wikipedia.org/wiki/Borobudur), the [:Prajnaparamita of Java](https://en.wikipedia.org/wiki/Prajnaparamita_of_Java) and how…

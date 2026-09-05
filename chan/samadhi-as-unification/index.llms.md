@@ -2,7 +2,7 @@
 
 Tuning in to samadhi
 
-This article explains how samadhi can be seen as a unification of mind, as taught by Master Sheng Yen. It speaks to me because it explains the different approaches between, for example, the Tibetans (who focus on the combination of shamatha-vipashyana) compared to the Ch’an/Zen approach of unification. Originally published on [Cheltenham Zen](https://www.cheltenhamzen.co.uk/writings/becoming-one-with-everything-and-going-beyond).
+This article explains how samadhi can be seen as a unification of mind, as taught by Master Sheng Yen. It speaks to me because it explains the different approaches between, for example, the Tibetans (who focus on the combination of shamatha-vipashyana) compared to the Chan/Zen approach of unification. Originally published on [Cheltenham Zen](https://www.cheltenhamzen.co.uk/writings/becoming-one-with-everything-and-going-beyond).
 
 Author
 
