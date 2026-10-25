@@ -3,6 +3,7 @@
 ## Pages
 
 - [Tantra in Indonesia](https://buddhayana.org/musings/indonesia.llms.md)
+- [Timeline of the Kangyur](https://buddhayana.org/musings/kangyur-timeline.llms.md)
 - [Earth Touching](https://buddhayana.org/musings/earth-touching.llms.md)
 - [May the mind be one with the dharma](https://buddhayana.org/gampopa/mind-one-with-dharma.llms.md)
 - [May the path clarify confusion](https://buddhayana.org/gampopa/path-clarify-confusion.llms.md)
@@ -22,3 +23,4 @@
 - [May the dharma progress along the path](https://buddhayana.org/gampopa/dharma-progress-along-path.llms.md)
 - [Selected scriptures and treatises](https://buddhayana.org/musings/sutras.llms.md)
 - [Personal musings](https://buddhayana.org/musings/index.llms.md)
+- [Mind training](https://buddhayana.org/musings/mind-training.llms.md)

@@ -8,7 +8,7 @@ Bhikku Anālayo
 
 Published
 
-May 3, 2026
+April 1, 2024
 
 ![](../images/satipatthana-analayo.png)
 

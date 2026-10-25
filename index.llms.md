@@ -48,7 +48,7 @@ Thich Nhat Hahn
 
 Bhikku Anālayo
 
-2026
+2024
 
 ![](./images/first-sermon.png)
 
@@ -88,6 +88,16 @@ Daniel Kapitan
 
 2025
 
+![](./images/atisha.png)
+
+##### Mind training
+
+The source of this mind training (Tib.lojong) practice was the great Bengali master, Atisha Dipankara. Later, Geshe Chekawa organized these teachings into this series of 59…
+
+Judith L. Lief
+
+2021
+
 ![](./images/gampopa.webp)
 
 ##### Following Gampopa
@@ -97,6 +107,14 @@ The Kagyu lineage and the teachings of Gampopa are kind of my home base. *The Fo
 Daniel Kapitan
 
 2024
+
+![](./images/buddhist-texts.jpg)
+
+##### Timeline of the Kangyur
+
+The Kangyur is the collection of the Buddha’s teachings and has been translated into different languages throughout history. It’s is a fascinating journey through time and…
+
+Adarshah
 
 ![](./images/sutra.jpg)
 

@@ -9,7 +9,9 @@
       "/chan/huatou.html",
       "/chan/samadhi-as-unification/index.html",
       "/tai-chi/index.html",
+      "/musings/mind-training.html",
       "/gampopa/index.html",
+      "/musings/kangyur-timeline.html",
       "/musings/sutras.html",
       "/musings/indonesia.html"
     ]
@@ -18,8 +20,10 @@
     "listing": "/musings/index.html",
     "items": [
       "/musings/earth-touching.html",
+      "/musings/mind-training.html",
       "/musings/sutras.html",
-      "/musings/indonesia.html"
+      "/musings/indonesia.html",
+      "/musings/kangyur-timeline.html"
     ]
   }
 ]
