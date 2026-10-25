@@ -10,7 +10,7 @@ Published
 
 April 1, 2024
 
-![](../images/satipatthana-analayo.png)
+[![](../images/satipatthana-analayo.png)](https://www.buddhistinquiry.org/resources/satipatthana-audio/)
 
 Satipaṭṭhāna meditation is the Buddha’s foundational teaching on mindfulness. Commonly called the four establishments or the four foundations of mindfulness, its contemplations explore the nature of body, feeling-tone, mind, and dharmas.
 
