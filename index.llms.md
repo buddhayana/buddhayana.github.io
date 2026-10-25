@@ -94,6 +94,14 @@ Daniel Kapitan
 
 Sep 9, 2024
 
+![](./images/buddhist-texts.jpg)
+
+##### Timeline of the Kangyur
+
+The Kangyur is the collection of the Buddha’s teachings and has been translated into different languages throughout history. It’s is a fascinating journey through time and…
+
+Adarshah
+
 ![](./images/sutra.jpg)
 
 ##### Selected scriptures and treatises
