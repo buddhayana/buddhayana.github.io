@@ -16,7 +16,7 @@ There are thousands of Buddhist texts, spanning many vehicles, disciplines and t
 > - [The Stem Array. *Gaṇḍa­vyūha.*](https://84000.co/translation/toh44-45)
 > - [Unraveling the Intent. *Saṃdhi­nirmocana.*](https://84000.co/translation/toh106)
 > - [Lotus Sutra. *Saddharma­puṇḍarīka.*](https://84000.co/translation/toh113)
-> - [The Perfection of Wisdom in Seven Hundred Lines. *Saptaśatikānāma­prajñāpāramitā*](https://84000.co/translation/toh24)
+> - [The Perfection of Wisdom in Seven Hundred Lines. *Saptaśatikānāma­prajñāpāramitā.*](https://84000.co/translation/toh24)
 
 > **NOTE:**
 >
