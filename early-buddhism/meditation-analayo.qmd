@@ -2,7 +2,7 @@
 title: "Satipaṭṭhāna meditation"
 subtitle: Guided meditation by Bhikku Analayo on the seven spokes of Satipaṭṭhāna.
 author: Bhikku Anālayo
-date: 2026-05-03
+date: 2024-04-01
 image: /images/Gal_Viharaya_02.jpg
 ---
 
@@ -37,9 +37,3 @@ If you find this resource helpful, please consider [donating](https://www.buddhi
 ## Awakening
 {{< audio file="/early-buddhism/meditation-7.mp3" download-link="true">}}
 :::
-
-
-
-
-
- 
