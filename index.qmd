@@ -31,6 +31,7 @@ listing:
         - chan/samadhi-as-unification/index.qmd
         - tai-chi/index.qmd
         - gampopa/index.qmd
+        - kangyur-timeline.qmd
         - musings/sutras.qmd
         - musings/indonesia.qmd
 
