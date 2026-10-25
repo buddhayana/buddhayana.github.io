@@ -30,14 +30,12 @@ listing:
         - chan/huatou.qmd
         - chan/samadhi-as-unification/index.qmd
         - tai-chi/index.qmd
+        - musings/mind-training.qmd
         - gampopa/index.qmd
-        - kangyur-timeline.qmd
+        - musings/kangyur-timeline.qmd
         - musings/sutras.qmd
         - musings/indonesia.qmd
-
-
-
-
+date-format: "YYYY"
 ---
 
 <br><br>

@@ -16,6 +16,8 @@ format:
       narrative-background-color-overlay: "#800000BB"
       narrative-overlay-min-width: 2fr
       narrative-sidebar-width: 2fr
+date: 1993-01-01
+date-format: "YYYY"
 ---
 
 

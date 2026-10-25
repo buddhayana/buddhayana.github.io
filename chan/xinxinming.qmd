@@ -30,6 +30,7 @@ other-links:
   - text: e-book
     href: xinxinming.epub
     icon: book
+date: 1998-11-08
 ---
 
 # Preface
