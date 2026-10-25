@@ -30,6 +30,8 @@ One of may favourite dharma poems. The phrase ‘faith in mind’ contains the t
 
 鑑智僧璨 Jianzhi Sengcan (529-613), 聖嚴 Master Sheng-Yen (1931-2009)
 
+1998
+
 ![](./images/tek-chok-ling-oblong.jpg)
 
 ##### Earth Touching
@@ -38,13 +40,15 @@ One of may favourite dharma poems. The phrase ‘faith in mind’ contains the t
 
 Thich Nhat Hahn
 
+1993
+
 ![](./images/Gal_Viharaya_02.jpg)
 
 ##### Satipaṭṭhāna meditation
 
 Bhikku Anālayo
 
-May 3, 2026
+2026
 
 ![](./images/first-sermon.png)
 
@@ -54,7 +58,7 @@ The term “early Buddhism” refers to approximately the first two centuries in
 
 Bhikku Anālayo
 
-Nov 27, 2023
+2023
 
 ![](./images/master-xu-yun.webp)
 
@@ -64,7 +68,7 @@ Nov 27, 2023
 
 Stuart Lachs
 
-Feb 1, 2012
+2012
 
 ![](./chan/samadhi-as-unification/images/hoofprint-of-the-ox.jpg)
 
@@ -74,7 +78,7 @@ This article explains how samadhi can be seen as a unification of mind, as taugh
 
 Matt Harvey
 
-Jan 2, 2021
+2021
 
 ![](./images/white-crane-banner.png)
 
@@ -82,7 +86,7 @@ Jan 2, 2021
 
 Daniel Kapitan
 
-Oct 11, 2025
+2025
 
 ![](./images/gampopa.webp)
 
@@ -92,21 +96,13 @@ The Kagyu lineage and the teachings of Gampopa are kind of my home base. *The Fo
 
 Daniel Kapitan
 
-Sep 9, 2024
-
-![](./images/buddhist-texts.jpg)
-
-##### Timeline of the Kangyur
-
-The Kangyur is the collection of the Buddha’s teachings and has been translated into different languages throughout history. It’s is a fascinating journey through time and…
-
-Adarshah
+2024
 
 ![](./images/sutra.jpg)
 
 ##### Selected scriptures and treatises
 
-There are thousands of Buddhist texts, spanning many vehicles, disciplines and traditions. Below is a selection that I have come across over the years and which I think are…
+There are thousands of Buddhist texts, spanning many vehicles, disciplines and traditions. Translating these texts in an ongoing endeavour. Below is a selection of websites…
 
 ![](./images/1987-buddha-dan-borobudur.jpg)
 

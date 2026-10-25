@@ -12,6 +12,10 @@ Authors
 
 聖嚴 Master Sheng-Yen (1931-2009)
 
+Published
+
+November 8, 1998
+
 # Preface
 
 [:Master Sheng-yen](https://en.wikipedia.org/wiki/Sheng-yen) is a renowned teacher of Chan (Zen) Buddhism. At the age of 13, he left his home near Shanghai to become a monk. During the period of Communist unrest, he went to southern Taiwan and spent six years in solitary retreat. Later, he continued his formal study, earning a doctorate in Buddhist Literature from Rissho University in Tokyo. He has received transmission in the two major branches of Chan: the Lin-chi (Rinzai) and Ts’ao-tung (Soto) schools. He now divides his time between New York, where he is the Resident Teacher at the Chan Meditation Center he Founded, and Taipei, where he is the abbot of two monasteries.

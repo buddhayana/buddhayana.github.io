@@ -8,11 +8,13 @@
 
 Thich Nhat Hahn
 
+Jan 1, 1993
+
 ![](../images/sutra.jpg)
 
 ##### Selected scriptures and treatises
 
-There are thousands of Buddhist texts, spanning many vehicles, disciplines and traditions. Below is a selection that I have come across over the years and which I think are…
+There are thousands of Buddhist texts, spanning many vehicles, disciplines and traditions. Translating these texts in an ongoing endeavour. Below is a selection of websites…
 
 ![](../images/1987-buddha-dan-borobudur.jpg)
 

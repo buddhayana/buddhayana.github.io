@@ -8,6 +8,10 @@ Author
 
 Thich Nhat Hahn
 
+Published
+
+1993
+
 # Earth Touching
 
 Here is the foot of a tree.\
