@@ -23,7 +23,7 @@ callout-icon: false
 - [The Stem Array. _Gaṇḍa­vyūha._](https://84000.co/translation/toh44-45)
 - [Unraveling the Intent. _Saṃdhi­nirmocana._](https://84000.co/translation/toh106)
 - [Lotus Sutra. _Saddharma­puṇḍarīka._](https://84000.co/translation/toh113)
-- [The Perfection of Wisdom in Seven Hundred Lines. _Saptaśatikānāma­prajñāpāramitā_](https://84000.co/translation/toh24)
+- [The Perfection of Wisdom in Seven Hundred Lines. _Saptaśatikānāma­prajñāpāramitā._](https://84000.co/translation/toh24)
 
 :::
 
