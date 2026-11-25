@@ -6,6 +6,7 @@ There are thousands of Buddhist texts, spanning many vehicles, disciplines and t
 >
 > [SuttaCentral](https://suttacentral.net) contains early Buddhist texts, known as the Tipiṭaka or “Three Baskets”. This is a large collection of teachings attributed to the Buddha or his earliest disciples, who were teaching in India around 2500 years ago. They are regarded as sacred canon in all schools of Buddhism.
 >
+> - [Mindfulness Meditation. \_Satipaṭṭhānasutta.](https://suttacentral.net/mn10/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin)
 > - [The Characteristic of Nonself. *Anattalakkhaṇasutta.*](https://suttacentral.net/sn22.59/en/sujato?lang=en&layout=plain&notes=asterisk&highlight=false&script=latin)
 > - [The Shorter Discourse on Emptiness. *Cūḷasuññatasutta.*](https://suttacentral.net/mn121/en/sujato?lang=en&layout=plain&notes=asterisk&highlight=false&script=latin)
 
